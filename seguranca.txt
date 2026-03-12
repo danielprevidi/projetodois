@@ -1,0 +1,9 @@
+Validações de Segurança do Projeto
+
+- Login do usuário com usuário e senha;
+- Criptografar a senha;
+- Cadastro de face (para reconhecimento facial);
+- Identificação de VPN;
+- Não permitir o ponto se local diferente do esperado;
+
+
