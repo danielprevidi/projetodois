@@ -1,0 +1,3 @@
+O sistema é um registro de ponto.
+
+O funcionário utilizará um app para registrar o seu ponto na entrada e saída do trabalho.
