@@ -8,6 +8,8 @@ console.log("A soma é: " + resultado);
 
 
 //---------------
+//nova atualização vscode
+const bcrypt = require("bcrypt");
 
 const bcrypt = require("bcrypt");
 
