@@ -1,4 +1,4 @@
-//edicao nos dois diretorios - vscode
+//edicao nos dois diretorios - github
 const bcrypt = require("bcrypt");
 
 //Edição github
