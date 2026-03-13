@@ -1,3 +1,6 @@
+//edicao nos dois diretorios - vscode
+const bcrypt = require("bcrypt");
+
 //Edição github
 let numero1 = 5;
 let numero2 = 3;
